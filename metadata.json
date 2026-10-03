@@ -1,0 +1,6 @@
+{
+  "name": "CyberChess Neon - שחמט סייבר עתידני",
+  "description": "משחק שחמט עתידני בסגנון סייבר עם זכוכית שקופה, מודרניות, וסצנת פעולה הולוגרפית לכל מהלך.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
